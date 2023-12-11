@@ -1,0 +1,75 @@
+@import "./utils/fonts";
+@import "./utils/variables";
+@import "./base";
+@import "./utils/utils";
+@import "./utils/texts";
+@import "./utils/mixins";
+
+@import "./components/buttons";
+@import "./components/links";
+@import "./components/header";
+@import "./components/chefs-card";
+@import "./components/formats-card";
+@import "./components/imput";
+@import "./components/pagination";
+
+@import "./layouts/section";
+@import "./layouts/container";
+@import "./layouts/herosection";
+@import "./layouts/advantages";
+@import "./layouts/section";
+@import "./layouts/tradirions";
+@import "./layouts/chefs-section";
+@import "./layouts/formats-buttons";
+@import "./layouts/formats-section";
+@import "./layouts/contact-section";
+@import "./layouts/footer-section";
+@import "./layouts/mobile-menu";
+@import "./layouts/modal";
+@import "./layouts/forms";
+
+/* .input-form:not(:placeholder-shown) {
+  background-color: yellow;
+} */
+
+/* .input-form:placeholder-shown {
+  background-color: yellow;
+} */
+
+/* .input-form:required {
+  border-color: red;
+} */
+
+/* 
+.form-button:disabled {
+  background-color: red;
+  color: yellow;
+  cursor: not-allowed;
+} */
+
+/* .checkbox-trms {
+  position: relative;
+}
+
+.check-terms-1 {
+  appearance: none;
+}
+
+.check-terms-1:checked + .check-terms::before {
+  background-color: red;
+}
+
+.check-terms {
+  padding-left: 24px;
+}
+
+.check-terms::before {
+  border: 1px solid deeppink;
+  border-radius: 2px;
+  top: 5px;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  content: "";
+} */
